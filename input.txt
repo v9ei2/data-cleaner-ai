@@ -1,0 +1,8 @@
+john smith -- 34 yrs, works in Engineering (NYC)
+sara / HR / london / age:29
+Ahmed, Sales dept, Dubai, 41
+name=Lisa Chen; dept=Marketing; loc=San Francisco; 36 years old
+Mike O'Neil 27  engineering  boston
+Fatima   operations   Riyadh
+unknown person, ???, finance, paris, 33
+Tom (age 45) Department: Engineering Location: Austin TX
